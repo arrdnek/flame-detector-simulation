@@ -34,6 +34,14 @@ Fire incidents can cause serious material damage and endanger lives. This projec
 
 ---
 
+## Wiring Diagram
+
+The following image illustrates the wiring configuration for the simulated system:
+
+![Wiring Diagram](assets/wiring-flame.png)
+
+---
+
 ## System Flow
 
 1. System starts and acquires data from both sensors.
